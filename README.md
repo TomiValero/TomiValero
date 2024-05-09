@@ -6,7 +6,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.istockphoto.com/vectors/young-man-programmer-working-on-computer-with-code-on-screen-student-vector-id868677636?k=6&m=868677636&s=170667a&w=0&h=58Fssq7YyjlqRJgRjD-JWaXm8PuFBssDsUtDgXmw9nE=">
 </a>
 
-- 🔭 Actualmente estoy en busca de un nuevo tranajo donde continuar mi camino
+- 🔭 Actualmente estoy en busca de un nuevo trabajo donde continuar mi camino
 
 - 🌱 Me estoy formando como Tecnico Universitario en Programacion en la UTN
 
