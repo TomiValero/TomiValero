@@ -10,7 +10,7 @@
 
 - 🌱 Me estoy formando como Tecnico Universitario en Programacion en la UTN
 
-- 🌱 Actualmente aprendiendo **C# .NET && T-SQL**
+- 🌱 Actualmente aprendiendo **.Net Blazor**
 
 - 📫 Me podes contactar por **tomasvalero22@gmail.com**
 
