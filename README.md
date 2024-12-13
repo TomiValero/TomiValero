@@ -44,5 +44,16 @@
 </span>
 
 ## 👀 Github Stats
-![My github status](https://github-readme-stats.vercel.app/api?username=tomivalero&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomivalero&layout=compact)
+
+<div align="center">
+  <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=tomivalero&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomivalero&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+</div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomivalero/tomivalero/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomivalero/tomivalero/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tomivalero/tomivalero/output/github-snake.svg" />
+</picture>
+
+
