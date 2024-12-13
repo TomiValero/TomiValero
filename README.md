@@ -1,38 +1,48 @@
-<h1 align="center">Hola 👋, soy Tomás Valero</h1>
-<p align="center">Técnico en Programación egresado de la UTN y guardavidas, con una fuerte pasión por el desarrollo de software.</p>
+<h1 align="center"><b>Hola , soy Tomás Valero</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.istockphoto.com/vectors/young-man-programmer-working-on-computer-with-code-on-screen-student-vector-id868677636?k=6&m=868677636&s=170667a&w=0&h=58Fssq7YyjlqRJgRjD-JWaXm8PuFBssDsUtDgXmw9nE=">
-</a>
 
-<p>Soy un desarrollador apasionado que disfruta de la resolución de problemas mediante el código. A lo largo de mi carrera como Técnico Universitario en Programación (UTN), he adquirido sólidos conocimientos en SQL, MySQL, .NET, C#, y Java, así como bases en C y C++. Mi objetivo es aplicar estas habilidades para desarrollar soluciones eficientes y escalables que generen un impacto real en proyectos tecnológicos.</p>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 
-<h3>💼 Habilidades</h3>
-<ul>
-  <li><strong>Lenguajes de programación:</strong> C#, Java, SQL, MySQL, C, C++</li>
-  <li><strong>Desarrollo de aplicaciones:</strong> Experiencia en diversas tecnologías y frameworks para la creación de aplicaciones eficientes y escalables.</li>
-  <li><strong>Trabajo en equipo:</strong> Habilidades adquiridas en mi experiencia como guardavidas.</li>
-  <li><strong>Resolución de problemas:</strong> Capacidad para tomar decisiones bajo presión y enfrentar entornos desafiantes.</li>
-</ul>
+<br><br>
 
-<h3>🚀 ¿Qué busco?</h3>
-<p>Mi objetivo es asumir nuevos retos que me permitan seguir creciendo profesionalmente, y contribuir con soluciones innovadoras en el mundo del desarrollo de software. Estoy listo para aportar mi experiencia y seguir aprendiendo nuevas tecnologías en proyectos dinámicos.</p>
+- :school: Soy **Técnico en Programación** egresado de la **UTN** y **Guardavidas** con una fuerte pasión por el desarrollo de software.
+- :trophy: Tengo conocimientos sólidos en **SQL**, **MySQL**, **.NET**, **C#**, **Java**, y bases en **C** y **C++**.
+- :technologist: Me apasiona utilizar el software como herramienta para resolver problemas de forma eficiente y escalable.
+- :computer: Disfruto trabajando en proyectos de **backend** y siempre estoy explorando nuevas tecnologías y herramientas para mejorar mis habilidades.
+- :student: Actualmente busco oportunidades para seguir desarrollándome profesionalmente en el mundo del software.
+- :nerd_face: Siempre estoy aprendiendo cosas nuevas y mejorando mis habilidades técnicas y de resolución de problemas.
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-  Conecta conmigo 🤝
-</h3>
+<br>
 
-<p align="center">
-  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/tomas-valero-b125481a7/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+
+## 🖥️Tech Stack
+
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">  
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+</span>
+
+## 📱Contactame
+
+<span>
+  <a target="_blank" href="https://www.linkedin.com/in/tomas-valero-b125481a7/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a target="_blank" href="mailto:tomasvalero22@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/TomiValero">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="mailto:tomasvalero22@gmail.com">
-      <img src="https://img.icons8.com/doodle/40/000000/email.png">
-    </a>
-  </div>
-</p>
+
+</span>
+
+## 👀 Github Stats
+![My github status](https://github-readme-stats.vercel.app/api?username=tomivalero&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomivalero&layout=compact)
